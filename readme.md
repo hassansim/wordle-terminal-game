@@ -30,7 +30,7 @@ Wordle is a captivating word-guessing game designed to challenge your vocabulary
    ```
 2. Navigate to the project directory:
    ```
-   cd wordle-game
+   cd wordle-terminal-game
    ```
 
 ## Usage
