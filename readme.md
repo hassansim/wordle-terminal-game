@@ -1,6 +1,6 @@
 # Wordle Python Terminal Game
 
-<!-- ![Wordle](wordle.png) -->
+![Wordle](wordle.gif)
 
 ## Introduction
 Wordle is a captivating word-guessing game designed to challenge your vocabulary and wordplay skills. This Python terminal-based game allows players to guess a five-letter word within six attempts. With a blend of strategy, deduction, and a touch of luck, Wordle offers an exciting and interactive gaming experience.
